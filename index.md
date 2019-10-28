@@ -39,7 +39,7 @@ UX Designer and Researcher
 <ul> •  Created framework for the brand’s style guide, solidifying brand identity and local awareness	 </ul>
 <ul> •  Executed consumer research using a combination of surveys and consumer interviews </ul>
 <ul> •  Collaborated with a creative team, including graphic designer, photographer, and videographer to ensure materials were in line with brand strategy guidelines </ul>
-<ul> •  Contribution resulted in owners opening up 4 more locations in Westchester s </ul>
+<ul> •  Contribution resulted in owners opening up 4 more locations in Westchester </ul>
 
 
 ## EDUCATION
