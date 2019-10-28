@@ -8,7 +8,7 @@ UX Designer and Researcher
 <div id="webaddress">
 <a href="ftdominguez26@gmail.com">ftdominguez26@gmail.com</a>
 | <a href="francheska.design">Portfolio</a>
-| <p> (347) 664-5630 </p>
+| <a href="tel:347-664-5630">347.664.5630 </a>
 </div>
 
 
