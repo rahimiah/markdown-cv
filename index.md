@@ -1,91 +1,70 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: resume
+title: Francheska Dominguez's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# FRANCHESKA DOMINGUEZ
+UX Designer and Researcher
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ftdominguez26@gmail.com">ftdominguez26@gmail.com</a>
+| <a href="francheska.design">Portfolio</a>
+| <p> (347) 664-5630 </p>
 </div>
 
 
-## Currently
+## SKILLS
 
-Standing on the shoulders of giants
+<p><b>UX Design</b>: Wireframing, Prototyping, User Persona & Scenario, User Journey Mapping, Site/App Maps, Information Architecture</p>
+<p><b>UX Research</b>: User Interviews, Usability Testing, Contextual Inquiry, Comparative Analysis, Heuristic Evaluation, A/B Testing</p>
+<p><b>Tools</b>: Sketch, Axure, InVision, Marvel POP, Keynote, Microsoft Office, SPSS</p>
+<p><b>Languages</b>: English (Native), Spanish (Fluent)</p>
 
-### Specialized in
+## DESIGN EXPERIENCE
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### YourLocal - UX Designer
+`Aug 2019 - Sep 2019`
+<p> Responsible for the complete life-cycle of products, working with Marketing, Design, Engineering and Service teams to convert the product vision and strategy into a well-managed product roadmap with an iterative release cycle with the customer in mind. </p>
+
+<ul> •  Identified growth opportunities for product, targeting new and existing users </ul>
+<ul> •  Conducted user research to build a deeper understanding of common pain points and usability issues with the app</ul>
+<ul> •  Used rapid prototyping to produce and test solution concepts </ul>
+<ul> •  Collaborated with team to design wireframes and a clickable prototype </ul>
+<ul> •  Facilitated feedback sessions and workshops to create alignment between design team and stakeholders </ul>
 
 
-### Research interests
+### Lola on the Grill - Brand Strategist
+`Aug 2018 - May 2019`
+<p> Led rebranding efforts from “mom and pop” restaurant to “fast and casual” streamlining service and reducing visit time by 8 minutes </p>
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+<ul> •  Created framework for the brand’s style guide, solidifying brand identity and local awareness	 </ul>
+<ul> •  Executed consumer research using a combination of surveys and consumer interviews </ul>
+<ul> •  Collaborated with a creative team, including graphic designer, photographer, and videographer to ensure materials were in line with brand strategy guidelines </ul>
+<ul> •  Contribution resulted in owners opening up 4 more locations in Westchester s </ul>
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+__Pontificia Universidad Catolica Madre y Maestra, Doctor of Medicine, MD, Medicine.__
+`Graduated 2018`
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+__Flatiron School, User Experience Design Immersive.__
+`2019`
 
 
+## MEDICAL EXPERIENCE
 
-## Publications
+### Pontificia Universidad Catolica Madre y Maestra - Clinical Clerkship				   
+`May 2017 - May 2018`                  
+<p> Evaluated patients, creating and managing medical assessments. Presented findings in medical rounds to attendings, residents, and other students. Developed and delivered reports to medical professionals and non-medicals users. </p>
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+### Pontificia Universidad Catolica Madre y Maestra - Researcher				   	    
+`May 2016 - Jun 2018`
+<p> Planned and led research aimed to identify sociodemographic characteristics and injuries associated with gender-based violence in the Dominican Republic. Presented research at XIV Congreso Internacional de Investigación Científica. </p>
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Oct 2019 -->
 
 
