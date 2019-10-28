@@ -1,7 +1,4 @@
 ---
-layout: resume
-title: Francheska Dominguez's Resume
----
 # FRANCHESKA DOMINGUEZ
 UX Designer and Researcher
 
