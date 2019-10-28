@@ -42,7 +42,7 @@ UX Designer and Researcher
 <ul> •  Contribution resulted in owners opening up 4 more locations in Westchester s </ul>
 
 
-## Education
+## EDUCATION
 
 __Pontificia Universidad Catolica Madre y Maestra, Doctor of Medicine, MD, Medicine.__
 `Graduated 2018`
